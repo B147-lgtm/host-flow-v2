@@ -1,0 +1,8 @@
+{
+  "name": "HostFlow CRM",
+  "description": "A sophisticated CRM and management dashboard for Airbnb hosts, featuring AI-powered guest communication, sentiment analysis, and revenue optimization insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
